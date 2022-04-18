@@ -9,12 +9,12 @@
   "author": "",
   "license": "ISC",
   "engines": {
-    "node": "12.18.3"
+    "node": "16.14.0"
   },
   "dependencies": {
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "lodash": "^4.17.11",
     "mongoose": "^5.3.4"
   }
